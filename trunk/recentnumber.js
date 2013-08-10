@@ -1,5 +1,5 @@
 var rp_homePage    = "http://agratitudesign.blogspot.com", // Your blog homepage
-    rp_numPosts    = 5, // How many posts?
+    rp_numPosts    = 4, // How many posts?
     rp_thumbWidth  = 72, // Thumbnail width. Change to 0 if you want to disable the post thumbnail
     rp_numChars    = 75, // Number of posts summary
     rp_sortByLabel = false, // Replace false with your specific label name to display posts by specific label
