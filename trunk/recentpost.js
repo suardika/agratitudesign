@@ -1,5 +1,5 @@
 // Recent Post widget for Blogger with Preloader
-// Author: Ketut Agus Suardika
+// agratitudesign.blogspot.com
 // https://plus.google.com/117305117604413746770
 // Licence: Free for change, keep the original attribution, non commercial
 
